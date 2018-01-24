@@ -1,0 +1,5 @@
+1. http://www.faqs.org/faqs/ai-faq/neural-nets/part3/section-10.html
+2. https://www.quora.com/How-do-I-decide-the-number-of-nodes-in-a-hidden-layer-of-a-neural-network-I-will-be-using-a-three-layer-model
+
+
+Check reviews.
